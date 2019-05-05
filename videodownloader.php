@@ -1,5 +1,9 @@
 <?php
-
+/*
+    SMILEBOYS (c) 2019
+    https://github.com/faismuzaki/Tool-Instagram
+    Made by :3
+*/
 	echo "Url Video : ";
 	$urlna = trim(fgets(STDIN));
     	$ch = curl_init();
