@@ -9,7 +9,9 @@
 	$data = curl_exec($ch);
 	preg_match('/<meta property="og:video" content="(.*?)" \/>/', $data, $matches);
 	$smile = $matches[1];
+echo "Copy url dibawah ini ke browser kalian ! \n\n";
 print_r($smile);
+echo "\n"
 
 
 
