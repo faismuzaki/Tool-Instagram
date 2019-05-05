@@ -27,3 +27,6 @@
 					'Jumlah Post' => $post,
 					'Foto Profile' => $coba[0]);
 	print_r($result);
+
+
+
