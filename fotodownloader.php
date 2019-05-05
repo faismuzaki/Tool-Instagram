@@ -1,5 +1,9 @@
 <?php
-    
+/*
+    SMILEBOYS (c) 2019
+    https://github.com/faismuzaki/Tool-Instagram
+    Made by :3
+*/    
     echo "Url Foto Instagram yang ingin di download : ";
     $urlna = trim(fgets(STDIN));
     	$ch = curl_init();
