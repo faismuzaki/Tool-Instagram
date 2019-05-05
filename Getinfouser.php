@@ -1,5 +1,4 @@
 <?php
-	
 	echo "Username Instagram : ";
 	$username = trim(fgets(STDIN));
     	$ch = curl_init();
